@@ -8,4 +8,4 @@ end
 def person
   @person
   end
-  beyonr=person.new
+  beyone=person.new
