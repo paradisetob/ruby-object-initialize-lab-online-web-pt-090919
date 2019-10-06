@@ -9,4 +9,5 @@ class Dog
   def breed
     @breed
   end
-  
+
+  fido=
