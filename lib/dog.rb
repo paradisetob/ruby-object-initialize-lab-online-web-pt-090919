@@ -11,4 +11,5 @@ class Dog
   end
 
   fido= name.new("fido")
-  fido=breed.new("")
+  fido=breed.new("Pug")
+  
