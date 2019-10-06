@@ -10,4 +10,5 @@ class Dog
     @breed
   end
 
-  fido=
+  fido= name.new("fido")
+  fido=breed.new("")
